@@ -1,4 +1,4 @@
-# WdaseMaryam hello am teklit
+# wudase mariam hello am teklit
 this repo is my first web upload 
 this repo has 8 pages 
 point of this repo is to pray daily  mery's prayer
